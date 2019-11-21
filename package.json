@@ -1,0 +1,15 @@
+{
+  "name": "wood-artisans",
+  "version": "1.0.0",
+  "description": "Wood Artisans Web Site",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusLM94/wood-workers.git"
+  },
+  "author": "Jesus Lizarragaç",
+  "bugs": {
+    "url": "https://github.com/jesusLM94/wood-workers/issues"
+  },
+  "homepage": "https://github.com/jesusLM94/wood-workers#readme"
+}
